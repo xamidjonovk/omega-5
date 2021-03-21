@@ -10,7 +10,7 @@ body {
     background-repeat: no-repeat;
     background-position: left top;
     background-size: 300px 300px;
-    font-family: Circular Std;
+    font-family: Circular Std Book;
 }
 
 body {
@@ -176,4 +176,9 @@ header {
     letter-spacing: -0.656526px;
     color: rgba(255, 255, 255, 0.7);
     margin: 30px auto;
+}
+
+.ncr {
+    font-weight: normal;
+    font-size: 15px;
 }
