@@ -308,3 +308,81 @@ header {
     width: 80%;
     margin-bottom: 32px;
 }
+
+.text-box-5 {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.section-5 {
+    background: #F7F7FB;
+}
+
+.slider-box {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px;
+    height: 390px;
+    background-image: url(../img/img-5.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.center-text {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 21px;
+    line-height: 39px;
+}
+
+.quotes {
+    margin-left: 360px;
+    padding-top: 120px;
+    width: 50%;
+}
+
+.name-text {
+    margin-top: 20px;
+    text-align: center;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name-span {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.firm-span {
+    color: #696871;
+}
+
+.row {
+    border: none;
+    border-radius: 50%;
+}
+
+.row:focus {
+    outline: none;
+}
+
+.row:hover {
+    filter: contrast(1.5);
+    transform: scale(1.1);
+}
+
+.btn-left {
+    position: absolute;
+    top: 40%;
+}
+
+.btn-right {
+    position: absolute;
+    top: 40%;
+    right: 0%;
+}
