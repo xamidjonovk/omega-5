@@ -619,7 +619,8 @@ input:checked+.slider:before {
 
 .section-7 {
     background-color: #19191B;
-    height: 800px;
+    /* height: 800px; */
+    padding-bottom: 60px;
 }
 
 .section-6 {
@@ -629,4 +630,55 @@ input:checked+.slider:before {
 
 .section-5 {
     margin-bottom: 0;
+}
+
+.section-7 {
+    padding-top: 270px;
+}
+
+.icon-box-7 {
+    margin-right: 20px;
+}
+
+.icon-box-7 img {
+    width: 30px;
+    height: 30px;
+}
+
+.s7-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 30px;
+}
+
+.s7-item {
+    padding: 10px;
+    width: 45%;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.h4 {
+    color: #fff;
+}
+
+.last-box {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.last-box .h2 {
+    text-align: center;
+    color: #fff;
+}
+
+.last-box .btn {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
 }
