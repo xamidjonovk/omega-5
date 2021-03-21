@@ -785,3 +785,7 @@ footer {
 body {
     scroll-behavior: smooth;
 }
+
+.last-box .center-p {
+    width: 50%;
+}
