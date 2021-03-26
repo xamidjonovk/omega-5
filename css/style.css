@@ -340,6 +340,10 @@ header {
     background-size: contain;
 }
 
+#1:target~.slider-box {
+    background-image: url(../img/BG-1-2.png);
+}
+
 .center-text {
     margin-left: auto;
     margin-right: auto;
